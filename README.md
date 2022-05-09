@@ -2,7 +2,8 @@
 
 
 [![Website](https://img.shields.io/website?label=emirhanulkatan.com&style=for-the-badge&url=https%3A%2F%emirhanulkatan.com)](https://emirhanulkatan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/UlkatanEmirhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%UlkatanEmirhan&screen_name=UlkatanEmirhan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/UlkatanEmirhan?color=1DA1F2&logo=twitter&style=for-the-badge)]()
+
 
 
 ## I'm a Developer and PC Gamer!!
@@ -16,8 +17,10 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/UlkatanEmirhan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/UlkatanEmirhan#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ulkatanorhanemirhan/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ulkatanorhanemirhan/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/orhan-emirhan-ulkatan-8b84b1150/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/orhan-emirhan-ulkatan-8b84b1150/#gh-dark-mode-only)
 
