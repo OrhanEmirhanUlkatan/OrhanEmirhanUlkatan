@@ -16,10 +16,10 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/UlkatanEmirhan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/UlkatanEmirhan#gh-dark-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.instagram.com/ulkatanorhanemirhan/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.instagram.com/ulkatanorhanemirhan/#gh-dark-mode-only)
-[![website](./img/instagram-light.svg)](https://www.linkedin.com/in/orhan-emirhan-ulkatan-8b84b1150/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.linkedin.com/in/orhan-emirhan-ulkatan-8b84b1150/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ulkatanorhanemirhan/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ulkatanorhanemirhan/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/orhan-emirhan-ulkatan-8b84b1150/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/orhan-emirhan-ulkatan-8b84b1150/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
