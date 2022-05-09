@@ -1,10 +1,7 @@
 # Hi there, I'm Emirhan👋 
 
-
-[![Website](https://img.shields.io/website?label=emirhanulkatan.com&style=for-the-badge&url=https%3A%2F%emirhanulkatan.com)](https://emirhanulkatan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/UlkatanEmirhan?color=1DA1F2&logo=twitter&style=for-the-badge)]()
-
-
+[![Website](https://img.shields.io/website?label=emirhanulkatan.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/UlkatanEmirhan?style=social)](https://twitter.com/UlkatanEmirhan)
 
 ## I'm a Developer and PC Gamer!!
 
