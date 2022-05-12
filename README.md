@@ -5,7 +5,7 @@
 ## I'm a Developer and PC Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other frontend developer
+- 👯 I’m looking to collaborate with other Front-end developer
 - 🥅 2022 Goals: Learn more about web3,learning react and further development, taking HTML and CSS to the next level Using Express JS and Node JS, doing database operations with Mongo DB
 - ⚡ Fun fact: I like reading books, doing research, learning new things and playing computer games.
 
