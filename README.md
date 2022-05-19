@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/UlkatanEmirhan?color=blue&style=for-the-badge)](https://twitter.com/UlkatanEmirhan)
 
-## I'm a Developer and PC Gamer!!
+## I'am a Frontend developer from Turkey!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Front-end developer
